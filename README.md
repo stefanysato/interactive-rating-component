@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution - Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](http://webdevste.github.io/interactive-rating-component)
+- Solution URL: [Solution - Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-gW-6r8laB_)
+- Live Site URL: [Live Site - Github Pages](http://stefanysato.github.io/interactive-rating-component)
 
 ### Built with
 
